@@ -19,7 +19,7 @@ retrykit spreads retries out with **full jitter**: each wait is a random value b
 ## Install
 
 ```bash
-pip install git+https://github.com/<your-username>/retrykit.git
+pip install git+https://github.com/jahangirhussain/retrykit.git
 ```
 
 Requires Python 3.8+. There are no runtime dependencies.
